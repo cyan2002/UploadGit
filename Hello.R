@@ -9,3 +9,30 @@
 #I wonder if this updates on Github
 
 #okay this should show up on the branch!
+
+#GIT VS GITHUB
+
+#Git - software already downloaded on mac (have to download on Microsoft), you need to know how to use Git
+#know command line, git and code.
+
+#GIT COMMANDS
+#To create a local git repository use - git init
+
+#To save changes made - git add file_name 
+#OR if you want to save everything - git add .
+
+#To actually commit those files - git commit -m 'a description of your changes (mandatory)'
+
+#To remove a file - rm file_name
+
+#To look at log of saves - git log
+#this returns a checkout code which you can use as to restore files - git checkout code_ID
+
+#GITHUB - a website to upload code which you can share with others
+
+#Now that we have our code commited, we need to push our code to the website. 
+
+#git remote add origin website_github_URL_here
+#push -u origin master
+#PS. github will have this code on the website
+
